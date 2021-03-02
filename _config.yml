@@ -1,9 +1,7 @@
 menu:
   Home: /
-  Archives: /archives
   About: /about
   RSS: /rss
-  Member: /member
 
 vertical: false
 excerpt: false
@@ -12,7 +10,8 @@ always_darkmode: false
 podcast: false
 favicon: favicon.png
 license: 本站文章使用 CC BY-NC-SA 4.0 许可。
-#font_mirror: fonts.loli.net // 国内更快
-font_mirror: fonts.googleapis.com
-custom_fonts:
+font_mirror: fonts.loli.net // 国内更快
+#font_mirror: fonts.googleapis.com
+#custom_fonts:
+custom_fonts: '"Noto Serif SC", "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", "Droid Sans", "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Droid Sans Fallback", "Microsoft YaHei"'
 to_chinese_date: true
